@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8eb9bba5-011c-4469-b92b-82ab0808bfe6" name="Default Changelist" comment="" />
+    <list default="true" id="8eb9bba5-011c-4469-b92b-82ab0808bfe6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/Di.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/code2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/code3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/code31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/code32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/code33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/code34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/code35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/code36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/code37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/code4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/code5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/code6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/code7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/dek.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/result2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/result3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/specf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/tabDs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/tabIm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/tbl1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/tbl2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/tbl3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/uml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/uml2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf/images/uml3.jpg" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +47,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1zrOXMJ4JJnsS6wteNedtKj4YK6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Labs_frontend_mainpage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -56,10 +93,25 @@
       <workItem from="1635154819948" duration="88000" />
       <workItem from="1635154916468" duration="7685000" />
       <workItem from="1635172795417" duration="44000" />
+      <workItem from="1635283667473" duration="595000" />
+      <workItem from="1635324077378" duration="4618000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

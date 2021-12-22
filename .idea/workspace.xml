@@ -2,39 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eb9bba5-011c-4469-b92b-82ab0808bfe6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/Di.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/code2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/code3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/code31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/code32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/code33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/code34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/code35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/code36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/code37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/code4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/code5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/code6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/code7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/dek.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/result2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/result3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/specf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/tabDs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/tabIm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/tbl1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/tbl2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/tbl3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/uml.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/uml2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf/images/uml3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,13 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1zrOXMJ4JJnsS6wteNedtKj4YK6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -65,18 +46,7 @@
       <recent name="C:\Users\baluk\WebstormProjects\Labs_Proskura_Frontend\inf" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -95,20 +65,26 @@
       <workItem from="1635172795417" duration="44000" />
       <workItem from="1635283667473" duration="595000" />
       <workItem from="1635324077378" duration="4618000" />
+      <workItem from="1635423437793" duration="652000" />
+      <workItem from="1635424199291" duration="138000" />
+      <workItem from="1635424620344" duration="550000" />
+      <workItem from="1635427068792" duration="34000" />
+      <workItem from="1637760243819" duration="430000" />
+      <workItem from="1640021744518" duration="114000" />
+      <workItem from="1640178847372" duration="2213000" />
+      <workItem from="1640197113062" duration="4458000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
